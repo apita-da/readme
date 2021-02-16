@@ -19,8 +19,8 @@ Informacion del proyecto
 
 ### Herramientas usadas 🛠️
 ***
-* [VisualStudio]
-* [Prepros]
+* VisualStudio
+* Prepros
 
 ## Instalacion 🚀
 ***
@@ -38,9 +38,9 @@ Si quieres colaborar hazte un git clone y a jugar!
 
 ## Tecnologias :pencil2: 📐
 ***
-* [JavaScript]
-* [scss]
-* [Html.5]
+* JavaScript
+* scss
+* Html.5
 ***
 ## Autora ✒️
 ***
