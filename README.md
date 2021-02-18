@@ -9,21 +9,21 @@
 7. [Linencia](#Licencia)
 8. [Agradeciemientos](#Agradecimietos)
 
-### General Info 📋
+# General Info 📋
 ***
 Informacion de tu proyecto
 
-### Screenshot 📷
+# Screenshot 📷
 ***
 Pon una imagen para que todo el mundo vea como es tu proyecto
 ![Image text](link del archivo en git)
 
-### Herramientas usadas 🛠️
+# Herramientas usadas 🛠️
 ***
 * Lista de las herramientas que has usado
 * 
 
-## Instalacion 🚀
+# Instalacion 🚀
 ***
 Para descargarlo sigue los siguientes pasos
 ```
@@ -33,24 +33,24 @@ $ abre tu navegador
 ```
 explica paso a paso lo que se necesita para instalarlo
 
-## Colaboracion 🏈
+# Colaboracion 🏈
 ***
 Si quieres colaborar hazte un git clone y a jugar!
 
-## Tecnologias :pencil2: 📐
+# Tecnologias :pencil2: 📐
 ***
 * Los lenguajes, frameworks... que has usasdo
 *  
 ***
-## Autora ✒️
+# Autora ✒️
 ***
 Tu nombre y tus links a tus redes(no te olvides de linkedln)
 
-## Licencia 📄
+# Licencia 📄
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles (o la licencia que uses)
 
-## Agradecimientos 🎁
+# Agradecimientos 🎁
 ***
  
 si es un trabajo en equipo tambien hay que mencionarles.
